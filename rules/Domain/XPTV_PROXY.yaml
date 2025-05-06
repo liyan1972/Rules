@@ -1,0 +1,6 @@
+payload:
+#标注需代理的地址
+#厂长
+- DOMAIN,www.czzy77.com
+#69云EMBY
+- DOMAIN-SUFFIX,69yun69.com
