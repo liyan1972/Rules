@@ -4,3 +4,5 @@ payload:
 - DOMAIN,www.czzy77.com
 #69云EMBY
 - DOMAIN-SUFFIX,69yun69.com
+#112114EPG
+- DOMAIN-SUFFIX,112114.xyz
